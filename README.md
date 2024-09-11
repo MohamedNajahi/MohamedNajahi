@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h3 class="heading-element" dir="auto">Skills : <br></h3>
 </div>
+<div>
 - **Programming**: Proficient in C++, Java, Python, PHP, and R.
 - **Software Engineering**: Knowledge of software development life cycle, design patterns, and version control using Git and GitHub.
 - **Web Development**: Skilled in HTML, CSS, Bootstrap, JavaScript, Node.js, and React for building responsive web applications.
@@ -47,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 - **Project Management**: Familiar with project management methodologies, especially in software development.
 - **Ethical & Professional Computing**: Knowledge of social, ethical, and legal aspects of computing in the professional environment.
 - **Version Control**: Git, GitHub
-
+</div>
 <div><p align="left" dir="auto">
   <a href="https://www.oracle.com/java/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;">
