@@ -35,17 +35,21 @@
 </div>
 
 <div>
-  - **Programming**: Proficient in C++, Java, Python, PHP, and R.<br>
-  - **Software Engineering**: Knowledge of the software development life cycle, design patterns, and version control using Git and GitHub.<br>
-  - **Web Development**: Skilled in HTML, CSS, Bootstrap, JavaScript, Node.js, and React for building responsive web applications.<br>
-  - **Artificial Intelligence**: Introductory knowledge of AI concepts and machine learning frameworks like TensorFlow and Keras.<br>
-  - **Computer Networks**: Knowledge of networking principles, data communication, and network protocols.<br>
-  - **Statistics & Probability**: Solid understanding of statistical models and probability theory for AI and data science, with experience in R.<br>
-  - **Databases**: MySQL, MongoDB, Firebase.<br>
-  - **Project Management**: Familiar with project management methodologies, especially in software development.<br>
-  - **Ethical & Professional Computing**: Knowledge of social, ethical, and legal aspects of computing in the professional environment.<br>
-  - **Version Control**: Git, GitHub.
+  <h3>Skills :</h3>
+  <ul>
+    <li><strong>Programming</strong>: Proficient in C++, Java, Python, PHP, and R.</li>
+    <li><strong>Software Engineering</strong>: Knowledge of the software development life cycle, design patterns, and version control using Git and GitHub.</li>
+    <li><strong>Web Development</strong>: Skilled in HTML, CSS, Bootstrap, JavaScript, Node.js, and React for building responsive web applications.</li>
+    <li><strong>Artificial Intelligence</strong>: Introductory knowledge of AI concepts and machine learning frameworks like TensorFlow and Keras.</li>
+    <li><strong>Computer Networks</strong>: Knowledge of networking principles, data communication, and network protocols.</li>
+    <li><strong>Statistics & Probability</strong>: Solid understanding of statistical models and probability theory for AI and data science, with experience in R.</li>
+    <li><strong>Databases</strong>: MySQL, MongoDB, Firebase.</li>
+    <li><strong>Project Management</strong>: Familiar with project management methodologies, especially in software development.</li>
+    <li><strong>Ethical & Professional Computing</strong>: Knowledge of social, ethical, and legal aspects of computing in the professional environment.</li>
+    <li><strong>Version Control</strong>: Git, GitHub.</li>
+  </ul>
 </div>
+
 
 <p align="left" dir="auto">
   <a href="https://www.oracle.com/java/" rel="nofollow">
