@@ -35,7 +35,7 @@
 </div>
 
 <div>
-  <h3>Skills :</h3>
+
   <ul>
     <li><strong>Programming</strong>: Proficient in C++, Java, Python, PHP, and R.</li>
     <li><strong>Software Engineering</strong>: Knowledge of the software development life cycle, design patterns, and version control using Git and GitHub.</li>
