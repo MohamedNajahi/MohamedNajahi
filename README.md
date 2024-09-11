@@ -1,6 +1,6 @@
 
 <img src="https://media.licdn.com/dms/image/D5616AQElFpkTG6ML1g/profile-displaybackgroundimage-shrink_350_1400/0/1720334917254?e=1727308800&v=beta&t=ZD5ysKDLv8i7UCwNXW50Cqrnw4nIZBIGt60wVKoeqAU" style="max-hight:100px" >
-<center<h3>>Hi there, I’m Najahi Najimudeen 👋</h3></center>
+<center><h3>Hi there, I’m Najahi Najimudeen 👋</h3></center>
 <div>
 
   <a href="https://www.linkedin.com/in/mohamed-najahi-563aa1296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow">
