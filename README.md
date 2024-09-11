@@ -86,7 +86,12 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 
-  
+
+- **Programming Languages**: C, Java, Python, PHP
+- **Web Technologies**: HTML, CSS, SCSS, Bootstrap, JavaScript, Node.js, React, React Native (Mobile App Development)
+- **Database**: MySQL, MongoDB, Firebase
+- **Version Control**: Git, GitHub
+
 </div>
 <hr>
 <div>
