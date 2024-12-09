@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQElFpkTG6ML1g/profile-displaybackgroundimage-shrink_350_1400/0/1720334917254?e=1727308800&v=beta&t=ZD5ysKDLv8i7UCwNXW50Cqrnw4nIZBIGt60wVKoeqAU" style="max-height:100px;" >
+
 <center><h3>Hi there, I’m Najahi Najimudeen 👋</h3></center>
 
 <div>
