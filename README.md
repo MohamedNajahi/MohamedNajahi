@@ -47,7 +47,6 @@
     <li><strong>Large Language Models (LLMs)</strong>: Hands-on experience using and fine-tuning models like GPT and BERT for chatbots, summarization, and question answering.</li>
     <li><strong>Software Engineering</strong>: Knowledge of the software development life cycle, design patterns, and version control using Git and GitHub.</li>
     <li><strong>Web Development</strong>: Skilled in HTML, CSS, Bootstrap, JavaScript, Node.js, and React for building responsive web applications.</li>
-    
     <li><strong>Computer Networks</strong>: Knowledge of networking principles, data communication, and network protocols.</li>
     <li><strong>Statistics & Probability</strong>: Solid understanding of statistical models and probability theory for AI and data science, with experience in R.</li>
     <li><strong>Databases</strong>: MySQL, MongoDB, Firebase.</li>
