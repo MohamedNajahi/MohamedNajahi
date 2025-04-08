@@ -38,9 +38,16 @@
 
   <ul>
     <li><strong>Programming</strong>: Proficient in C++, Java, Python, PHP, and R.</li>
+    <li><strong>Artificial Intelligence</strong>: Introductory knowledge of AI concepts and machine learning frameworks like TensorFlow and Keras.</li>
+    <li><strong>Machine Learning</strong>: Practical knowledge of ML algorithms and machine learning frameworks like TensorFlow and Keras.</li>
+    <li><strong>Data Science</strong>: Introductory knowledge of AI concepts and machine learning frameworks like TensorFlow and Keras.</li>
+    <li><strong>Data Analytics</strong>: Experience in data wrangling, visualization (using tools like Pandas, Matplotlib, and Seaborn), and deriving actionable insights from datasets.</li>
+    <li><strong>Computer Vision</strong>: Familiar with OpenCV, image classification, object detection, and CNNs for visual recognition tasks.</li>
+    <li><strong>Natural Language Processing (NLP)</strong>: Worked with text preprocessing, sentiment analysis, and tokenization using libraries like NLTK, spaCy, and Hugging Face Transformers.</li>
+    <li><strong>Large Language Models (LLMs)</strong>: Hands-on experience using and fine-tuning models like GPT and BERT for chatbots, summarization, and question answering.</li>
     <li><strong>Software Engineering</strong>: Knowledge of the software development life cycle, design patterns, and version control using Git and GitHub.</li>
     <li><strong>Web Development</strong>: Skilled in HTML, CSS, Bootstrap, JavaScript, Node.js, and React for building responsive web applications.</li>
-    <li><strong>Artificial Intelligence</strong>: Introductory knowledge of AI concepts and machine learning frameworks like TensorFlow and Keras.</li>
+    
     <li><strong>Computer Networks</strong>: Knowledge of networking principles, data communication, and network protocols.</li>
     <li><strong>Statistics & Probability</strong>: Solid understanding of statistical models and probability theory for AI and data science, with experience in R.</li>
     <li><strong>Databases</strong>: MySQL, MongoDB, Firebase.</li>
