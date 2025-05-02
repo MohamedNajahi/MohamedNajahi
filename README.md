@@ -1,5 +1,5 @@
 
-<center><h3>Hi there, I’m Najahi Najimudeen 👋</h3></center>
+<center><h3>Hi there, I’m Mohamed Najahi 👋</h3></center>
 
 <div>
   <a href="https://www.linkedin.com/in/mohamed-najahi-563aa1296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow">
