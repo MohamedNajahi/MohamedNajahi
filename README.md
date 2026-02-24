@@ -1,128 +1,118 @@
+<!-- ================= HEADER ================= -->
 
-<div align="center">
-  <h3>Hi there, I’m Mohamed Najahi 👋</h3>
-</div>
- 
-<hr>
-<div>
-  <a href="https://www.linkedin.com/in/mohamed-najahi-563aa1296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow">
-    <img src="https://img.shields.io/badge/-mohamed_najahi-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: mohamed_najahi" style="max-width: 100%;">
-  </a>
+<h1 align="center">Hi there, I’m Mohamed Najahi 👋</h1>
 
-  <a href="https://www.instagram.com/nm_najahi/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Instagram-follow-red?style=social&logo=instagram" alt="Instagram: nm_najahi" style="max-width: 100%;">
-  </a>
-
-  <a href="https://www.facebook.com/najahi.najimudeen" rel="nofollow">
-    <img src="https://img.shields.io/badge/Facebook-follow-blue?style=social&logo=facebook" alt="Facebook: Najahi Najimudeen" style="max-width: 100%;">
-  </a>
-
-  <img src="https://img.shields.io/twitter/follow/mnajahi887?style=social" alt="Twitter: mnajahi887" style="max-width: 100%;">
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=mnajahi887&label=Profile%20views&color=blue&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=mnajahi887&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" style="max-width: 100%;">
-  </a>
-</div>
-
-<hr>
-
-<div>
-  <h3>About Me:</h3>
-  <p>I am currently pursuing a BSc (Hons) in Computer Science with Artificial Intelligence. Passionate about leveraging cutting-edge technology to drive innovation and solve complex problems. Eager to apply my academic knowledge and practical skills to excel in the field of AI engineering. Committed to continuous learning and growth to stay at the forefront of this rapidly evolving industry. Open to opportunities where I can contribute my expertise and make a meaningful impact in the realm of artificial intelligence.</p>
-</div>
-
-<hr>
-
-<div>
-  <h3 class="heading-element" dir="auto">Skills:</h3>
-</div>
-
-<div>
-
-  <ul>
-    <li><strong>Programming</strong>: Proficient in C++, Java, Python, PHP, and R.</li>
-    <li><strong>Artificial Intelligence</strong>: Introductory knowledge of AI concepts and machine learning frameworks like TensorFlow and Keras.</li>
-    <li><strong>Machine Learning</strong>: Practical knowledge of ML algorithms and machine learning frameworks like TensorFlow and Keras.</li>
-    <li><strong>Data Science</strong>: Introductory knowledge of AI concepts and machine learning frameworks like TensorFlow and Keras.</li>
-    <li><strong>Data Analytics</strong>: Experience in data wrangling, visualization (using tools like Pandas, Matplotlib, and Seaborn), and deriving actionable insights from datasets.</li>
-    <li><strong>Computer Vision</strong>: Familiar with OpenCV, image classification, object detection, and CNNs for visual recognition tasks.</li>
-    <li><strong>Natural Language Processing (NLP)</strong>: Worked with text preprocessing, sentiment analysis, and tokenization using libraries like NLTK, spaCy, and Hugging Face Transformers.</li>
-    <li><strong>Large Language Models (LLMs)</strong>: Hands-on experience using and fine-tuning models like GPT and BERT for chatbots, summarization, and question answering.</li>
-    <li><strong>Software Engineering</strong>: Knowledge of the software development life cycle, design patterns, and version control using Git and GitHub.</li>
-    <li><strong>Web Development</strong>: Skilled in HTML, CSS, Bootstrap, JavaScript, Node.js, and React for building responsive web applications.</li>
-    <li><strong>Computer Networks</strong>: Knowledge of networking principles, data communication, and network protocols.</li>
-    <li><strong>Statistics & Probability</strong>: Solid understanding of statistical models and probability theory for AI and data science, with experience in R.</li>
-    <li><strong>Databases</strong>: MySQL, MongoDB, Firebase.</li>
-    <li><strong>Project Management</strong>: Familiar with project management methodologies, especially in software development.</li>
-    <li><strong>Ethical & Professional Computing</strong>: Knowledge of social, ethical, and legal aspects of computing in the professional environment.</li>
-    <li><strong>Version Control</strong>: Git, GitHub.</li>
-  </ul>
-</div>
-
-
-<p align="left" dir="auto">
-  <a href="https://www.oracle.com/java/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;">
-  </a>
-
-  <a href="https://www.python.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%;">
-  </a>
-
-  <a href="https://isocpp.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" style="max-width: 100%;">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" style="max-width: 100%;">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" style="max-width: 100%;">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;">
-  </a>
-
-  <a href="https://www.r-project.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" height="36" alt="R" style="max-width: 100%;">
-  </a>
-
-  <a href="https://www.mysql.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;">
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;">
-  </a>
-
-  <!-- ReactJS -->
-  <a href="https://reactjs.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="ReactJS" style="max-width: 100%;">
-  </a>
-
-  <!-- Azure -->
-  <a href="https://azure.microsoft.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="36" height="36" alt="Azure" style="max-width: 100%;">
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="Firebase" style="max-width: 100%;">
-  </a>
+<p align="center">
+💻 Computer Science & AI Undergraduate • 🤖 AI Engineer in Progress • 🚀 Building Intelligent Systems
 </p>
 
-<hr>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=500&lines=AI+Engineer+in+Progress;Building+Smart+AI+Applications;LLMs+%7C+Machine+Learning+%7C+RAG+Systems"/>
+</p>
 
-<div>
-  <h3>IDE and Tools I Use:</h3>
-  <img width="40" height="40" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" />
-  <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" />
-  <img width="40" height="40" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" />
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="Anaconda" />
-  <img width="40" height="40" src="https://img.icons8.com/ios/50/notion.png" alt="Notion" />
-  <img width="40" height="40" src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" />
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" />
-  <img width="40" height="40" src="
+---
+
+<!-- ================= SOCIAL ================= -->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-najahi-563aa1296/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Najahi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/nm_najahi/">
+<img src="https://img.shields.io/badge/Instagram-nm__najahi-red?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/mnajahi887">
+<img src="https://img.shields.io/twitter/follow/mnajahi887?style=social"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mnajahi887&label=Profile%20Views&color=blue&style=flat-square"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 BSc (Hons) Computer Science with Artificial Intelligence Undergraduate  
+🤖 Passionate about building real-world AI systems  
+🧠 Focused on Machine Learning, NLP, LLMs & Intelligent Applications  
+⚡ Interested in AI deployment and scalable systems  
+🌍 Continuously learning and exploring modern AI technologies  
+
+---
+
+## 🔥 Current Focus
+
+- 🧠 Large Language Model Applications  
+- ⚡ Retrieval Augmented Generation (RAG)
+- 📊 AI Mental Health Systems  
+- 🚀 AI Model Deployment & APIs  
+
+---
+
+## 🧠 AI Engineer Skills
+
+- **Programming:** Python, C++, Java, R  
+- **Machine Learning:** Classification, Regression, Clustering  
+- **Deep Learning:** Neural Networks, CNNs (TensorFlow, Keras)  
+- **NLP & LLMs:** GPT, BERT, LangChain, Prompt Engineering  
+- **Computer Vision:** OpenCV, Image Processing  
+- **Data Science:** Pandas, NumPy, Visualization  
+- **Vector Databases:** ChromaDB, FAISS, Embeddings, RAG  
+- **Deployment:** Flask, FastAPI, REST APIs  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **Tools:** Git, GitHub  
+
+---
+
+## ⚙️ AI Tech Stack
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/100545167?s=200&v=4" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+
+</p>
+
+---
+
+## 🛠️ IDEs & Tools
+
+<p align="center">
+
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="45"/>
+<img src="https://img.icons8.com/color/48/pycharm--v1.png" width="45"/>
+<img src="https://img.icons8.com/color/48/jupyter.png" width="45"/>
+<img src="https://img.icons8.com/color/48/google-colab.png" width="45"/>
+<img src="https://img.icons8.com/fluency/48/anaconda--v2.png" width="45"/>
+<img src="https://img.icons8.com/color/48/git.png" width="45"/>
+<img src="https://img.icons8.com/color/48/docker.png" width="45"/>
+<img src="https://img.icons8.com/ios-filled/50/notion.png" width="45"/>
+<img src="https://img.icons8.com/color/48/arduino.png" width="45"/>
+
+</p>
+
+---
+
+## ⚡ Motto
+
+<p align="center">
+🚀 Turning Data into Intelligence • Building AI that Makes Impact
+</p>
+
+---
+
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020024,50:090979,100:00d4ff&section=footer"/>
