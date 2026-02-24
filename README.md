@@ -1,5 +1,9 @@
-<title>Hi there, I’m Mohamed Najahi 👋</title>
 
+<div align="center">
+  <h3>Hi there, I’m Mohamed Najahi 👋</h3>
+</div>
+ 
+<hr>
 <div>
   <a href="https://www.linkedin.com/in/mohamed-najahi-563aa1296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow">
     <img src="https://img.shields.io/badge/-mohamed_najahi-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: mohamed_najahi" style="max-width: 100%;">
