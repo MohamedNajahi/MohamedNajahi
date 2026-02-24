@@ -105,6 +105,20 @@
 </p>
 
 ---
+## 📌 Featured Projects
+
+| 🔧 Project | 📘 Description | 🔬 Tech Stack |
+|------------|---------------|--------------|
+| 🚀 [Customer Shopping Behavior Analysis](https://github.com/MohamedNajahi/Customer_Shopping_Behavior_Analysis_Project) | Customer analytics project using EDA, RFM segmentation, and interactive dashboard insights for business decision-making. | Python • SQL • Power BI |
+| 🎮 [CV Snake Game](https://github.com/MohamedNajahi/CVSnakeGameProject) | Real-time Snake game controlled by hand gestures using computer vision and webcam tracking. | Python • OpenCV • CVZone |
+| 📄 [Resume Score Finder](https://github.com/MohamedNajahi/Resume_Score_Finder) | AI-powered ATS resume analyzer using NLP semantic similarity to match resumes with job descriptions. | Flask • NLP • SentenceTransformers |
+| ✨ [ClearCanvas](https://github.com/MohamedNajahi/ClearCanvas) | Gemini AI-powered Chrome extension for intelligent grammar checking and proofreading automation. | Gemini AI • JavaScript • Chrome Extension |
+| 🧠 [Advanced RAG OpenAI](https://github.com/MohamedNajahi/advanced-rag-openai) | High-performance RAG pipeline enabling semantic document retrieval and AI-powered PDF question answering. | OpenAI • LangChain • Vector Database |
+| 🧠 **Mental Health Chatbot (Ongoing – Group Project)** | Conversational AI system providing mental health assistance with sentiment analysis, assessments, and dual LLM architecture. | Groq Cloud • Flask • Python • LangChain |
+
+<h4>✨ More innovative AI & ML projects coming soon... Stay tuned!</h4>
+
+---
 
 ## ⚡ Motto
 
