@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi there, I’m Mohamed Najahi 👋</h1>
+<h1 align="center">Hi , I’m Mohamed Najahi 👋</h1>
 
 <p align="center">
 💻 Computer Science & AI Undergraduate • 🤖 AI Engineer in Progress • 🚀 Building Intelligent Systems
