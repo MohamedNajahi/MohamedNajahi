@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I’m Mohamed Najahi 👋</h1>
 
 <p align="center">
-💻 Computer Science & AI Undergraduate • 🤖 AI Engineer in Progress • 🚀 Building Intelligent Systems
+💻 Computer Science & AI • 🤖 Entry-Level AI/ML Engineer • 🚀 Building Intelligent Systems
 </p>
 
 <p align="center">
@@ -36,9 +36,11 @@
 
 ## 🚀 About Me
 
-🎓 BSc (Hons) Computer Science with Artificial Intelligence Undergraduate  
+🎓 Completed academic requirements for BSc (Hons) Computer Science with Artificial Intelligence, Coventry University (delivered through NIBM, Sri Lanka) — Final Results Pending  
+💼 Six months of industry internship experience at Residue Solutions  
 🤖 Passionate about building real-world AI systems  
 🧠 Focused on Machine Learning, NLP, LLMs & Intelligent Applications  
+🔬 Final-year research in Explainable AI and DistilBERT-based malicious URL detection  
 ⚡ Interested in AI deployment and scalable systems  
 🌍 Continuously learning and exploring modern AI technologies  
 
@@ -46,25 +48,35 @@
 
 ## 🔥 Current Focus
 
-- 🧠 Large Language Model Applications  
-- ⚡ Retrieval Augmented Generation (RAG)
-- 📊 AI Mental Health Systems  
+
+- 🧠 Large Language Model Applications & AI Agents  
+- ⚡ Retrieval Augmented Generation (RAG) & LangGraph  
+- 📊 Machine Learning, Deep Learning & Explainable AI  
 - 🚀 AI Model Deployment & APIs  
+
 
 ---
 
+
 ## 🧠 AI Engineer Skills
 
-- **Programming:** Python, C++, Java, R  
-- **Machine Learning:** Classification, Regression, Clustering  
-- **Deep Learning:** Neural Networks, CNNs (TensorFlow, Keras)  
-- **NLP & LLMs:** GPT, BERT, LangChain, Prompt Engineering  
-- **Computer Vision:** OpenCV, Image Processing  
-- **Data Science:** Pandas, NumPy, Visualization  
-- **Vector Databases:** ChromaDB, FAISS, Embeddings, RAG  
-- **Deployment:** Flask, FastAPI, REST APIs  
-- **Databases:** MySQL, MongoDB, Firebase  
-- **Tools:** Git, GitHub  
+- **Programming & Software Engineering:** Python, C++, Java, OOP, Data Structures, Algorithms, Git, GitHub
+- **Mathematics & Statistics:** Linear Algebra, Probability, Statistics, Calculus, Hypothesis Testing
+- **Data Science & Engineering:** Pandas, NumPy, EDA, Data Cleaning, Feature Engineering, Data Visualization
+- **Machine Learning:** Classification, Regression, Clustering, Scikit-learn, Random Forest, XGBoost, Model Evaluation
+- **Deep Learning:** ANN, CNN, Transformers, PyTorch, TensorFlow, Keras, Transfer Learning, Fine-Tuning
+- **NLP & LLMs:** BERT, DistilBERT, Hugging Face, Sentence Transformers, Tokenization, Embeddings, Prompt Engineering
+- **Generative AI & Agentic Systems:** LangChain, LangGraph, RAG, Agentic RAG, AI Agents, Tool Calling, LLM Integration
+- **Explainable AI (XAI):** SHAP, LIME, Integrated Gradients, Captum, Model Interpretability
+- **Computer Vision:** OpenCV, Image Processing
+- **Vector Databases & Retrieval:** ChromaDB, FAISS, Pinecone, Semantic Search, Vector Embeddings
+- **Backend & API Development:** FastAPI, Flask, REST APIs, API Integration, Async Programming
+- **Databases:** MySQL, MongoDB, Redis, SQL, NoSQL
+- **MLOps & Deployment:** Docker, CI/CD Fundamentals, Model Serving, Model Monitoring Concepts, Linux
+- **AI System Design:** RAG Architecture, LLM Evaluation, Latency Optimization, Caching, Scalability Fundamentals
+- **AI Automation:** n8n, Workflow Automation, Zapier
+- **Development Tools:** VS Code, PyCharm, Jupyter Notebook, Google Colab, Postman
+
 
 ---
 
@@ -109,16 +121,20 @@
 
 | 🔧 Project | 📘 Description | 🔬 Tech Stack |
 |------------|---------------|--------------|
+| 🔬 [Explainable Malicious URL Detection Using DistilBERT](https://github.com/MohamedNajahi/Explainable-Malicious-URL-Detection-DistilBERT) | Final-year research on malicious URL detection using fine-tuned DistilBERT, achieving **98.98% accuracy**, with Integrated Gradients, LIME and SHAP explainability evaluation and URL robustness testing. | Python • PyTorch • DistilBERT • Hugging Face • SHAP • LIME • Captum • FastAPI |
+| 🤖 **Enterprise IT Support – Agentic RAG Copilot** | Enterprise IT support assistant with semantic document retrieval, vector embeddings, LangGraph workflows and LLM-powered technical troubleshooting. | Python • LangChain • LangGraph • Hugging Face • Vector Databases • FastAPI |
+| 🧠 **Serene – Mental Health Chatbot (Group Project)** | RAG-based mental health assistant with dual LLM architecture, crisis detection, PHQ-9/GAD-7 assessments and sentiment-based mood tracking. | Python • Flask • Groq • Gemini • ChromaDB • Next.js • Flutter |
+| ⚡ [Semantic Cache Q&A Chatbot](https://github.com/MohamedNajahi/Semantic-Cache-QnA-Chatbot-) | Compares direct LLM calls, Redis-backed semantic caching and fuzzy caching, including cost and latency analysis. | Python • Streamlit • Redis • LLM APIs |
+| 📊 [ANN Adult Income Classification](https://github.com/MohamedNajahi/ANN_Adult_Income) | Income classification using the UCI Adult Income dataset, comparing traditional machine learning and neural networks. | Python • Scikit-learn • Neural Networks • Pandas |
+| 🏥 [Gallstone Disease Prediction](https://github.com/MohamedNajahi/gallstone-disease-prediction-ml) | Machine learning for gallstone disease prediction using clinical, laboratory and bioimpedance data. | Python • Scikit-learn • Pandas • NumPy |
 | 🚀 [Customer Shopping Behavior Analysis](https://github.com/MohamedNajahi/Customer_Shopping_Behavior_Analysis_Project) | Customer analytics project using EDA, RFM segmentation, and interactive dashboard insights for business decision-making. | Python • SQL • Power BI |
 | 🎮 [CV Snake Game](https://github.com/MohamedNajahi/CVSnakeGameProject) | Real-time Snake game controlled by hand gestures using computer vision and webcam tracking. | Python • OpenCV • CVZone |
 | 📄 [Resume Score Finder](https://github.com/MohamedNajahi/Resume_Score_Finder) | AI-powered ATS resume analyzer using NLP semantic similarity to match resumes with job descriptions. | Flask • NLP • SentenceTransformers |
 | ✨ [ClearCanvas](https://github.com/MohamedNajahi/ClearCanvas) | Gemini AI-powered Chrome extension for intelligent grammar checking and proofreading automation. | Gemini AI • JavaScript • Chrome Extension |
-| 🧠 [Advanced RAG OpenAI](https://github.com/MohamedNajahi/advanced-rag-openai) | High-performance RAG pipeline enabling semantic document retrieval and AI-powered PDF question answering. | OpenAI • LangChain • Vector Database |
-| 🧠 **Mental Health Chatbot (Ongoing – Group Project)** | Conversational AI system providing mental health assistance with sentiment analysis, assessments, and dual LLM architecture. | Groq Cloud • Flask • Python • LangChain |
+| 🧠 [Advanced RAG OpenAI](https://github.com/MohamedNajahi/advanced-rag-openai) | RAG pipeline enabling semantic document retrieval and AI-powered PDF question answering. | OpenAI • LangChain • Vector Database |
 
 <h4>✨ More innovative AI & ML projects coming soon... Stay tuned!</h4>
 
----
 
 ## ⚡ Motto
 
